@@ -1,2 +1,2 @@
-requests==1.0.4
+requests==2.32.0
 futures==2.2.0
